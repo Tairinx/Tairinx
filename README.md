@@ -1,10 +1,10 @@
 ## Hi I'm Ismael Lucena
 
 
-<div>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Tairinx&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tairinx&layout=compact&langs_count=16&theme=swift%22"/>
-</div>
+//<div>
+//  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Tairinx&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+//  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tairinx&layout=compact&langs_count=16&theme=swift%22"/>
+//</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Aly-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" />     
