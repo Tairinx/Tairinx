@@ -4,6 +4,7 @@
   <img align="center" alt="Aly-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" />     
   <img align="center" alt="Aly-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg"/>
   <img align="center" alt="Aly-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Aly-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg">
 </div>
   
 ## Redes
