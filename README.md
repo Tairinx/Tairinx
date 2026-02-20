@@ -10,7 +10,6 @@
 ### Frameworks #>
 <div style="display: inline_block"><br>
   <img align="center" alt="Aly-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg">
-  <img align="center" alt="Aly-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg">
 </div>
 
 ## Redes
